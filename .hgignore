@@ -1,0 +1,8 @@
+syntax: glob
+*.suo
+*.sdf
+cppcheck.cppcheck
+ipch/*
+Debug/*
+Release/*
+src/data/*
